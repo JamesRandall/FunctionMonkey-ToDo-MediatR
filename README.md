@@ -6,3 +6,4 @@ A small sample demonstrating how to use [Function Monkey](https://functionmonkey
 
 This instructs Function Monkey to use MediatR as the mediation framework.
 
+You will also need to add the package FunctionMonkey.MediatR.
